@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.user360.mbean;
+package com.tiger.javase.user360.mbean;
 
 import javax.management.Attribute;
 import javax.management.Descriptor;
@@ -24,7 +24,7 @@ import javax.management.modelmbean.ModelMBeanOperationInfo;
 import javax.management.modelmbean.RequiredModelMBean;
 
 public class ModelAgent {
-	private String MANAGED_CLASS_NAME = "com.ericsson.upg.user360.mbean.Car";
+	private String MANAGED_CLASS_NAME = "com.tiger.javase.user360.mbean.Car";
 	private MBeanServer mBeanServer = null;
 	
 	public ModelAgent(){

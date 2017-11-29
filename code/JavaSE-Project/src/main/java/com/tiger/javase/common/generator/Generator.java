@@ -1,4 +1,4 @@
-package com.ericsson.upg.common.generator;
+package com.tiger.javase.common.generator;
 
 public interface Generator<T> {
 

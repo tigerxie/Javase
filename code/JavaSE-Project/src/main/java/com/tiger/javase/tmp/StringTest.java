@@ -1,4 +1,4 @@
-package com.ericsson.upg.tmp;
+package com.tiger.javase.tmp;
 
 public class StringTest {
     @SuppressWarnings("null")

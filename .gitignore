@@ -1,2 +1,5 @@
+
+*.settings
+*.classpath
 *.class
 target

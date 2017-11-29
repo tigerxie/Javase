@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency.lock;
+package com.tiger.javase.concurrency.lock;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

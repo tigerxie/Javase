@@ -1,4 +1,4 @@
-package com.ericsson.upg.test;
+package com.tiger.javase.test;
 
 import java.util.HashMap;
 import java.util.Map;

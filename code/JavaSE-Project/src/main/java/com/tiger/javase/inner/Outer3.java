@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.inner;
+package com.tiger.javase.inner;
 
 public class Outer3 {
 	public static final int TOTAL_NUMBER = 5;

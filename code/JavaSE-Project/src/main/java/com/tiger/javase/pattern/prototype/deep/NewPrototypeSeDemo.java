@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.prototype.deep;
+package com.tiger.javase.pattern.prototype.deep;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package com.ericsson.upg.runtime;
+package com.tiger.javase.runtime;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency;
+package com.tiger.javase.concurrency;
 
 import java.awt.List;
 import java.util.ArrayList;

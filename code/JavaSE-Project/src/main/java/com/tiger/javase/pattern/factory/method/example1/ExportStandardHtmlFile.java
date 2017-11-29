@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.factory.method.example1;
+package com.tiger.javase.pattern.factory.method.example1;
 
 public class ExportStandardHtmlFile implements ExportFile {
 

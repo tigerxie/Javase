@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.factory.abstracts.example2;
+package com.tiger.javase.pattern.factory.abstracts.example2;
 
 public abstract class AbstractFactory {
 

@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.consumer.waitnotify;
+package com.tiger.javase.pattern.consumer.waitnotify;
 
 public class Producer extends Thread  
 {  

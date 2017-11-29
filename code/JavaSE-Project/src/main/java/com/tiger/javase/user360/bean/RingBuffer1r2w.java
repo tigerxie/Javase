@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.user360.bean;
+package com.tiger.javase.user360.bean;
 
 public class RingBuffer1r2w {
 	private final static int bufferSize = 1024;

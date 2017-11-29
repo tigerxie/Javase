@@ -1,4 +1,4 @@
-package com.ericsson.upg.tools.mysql;
+package com.tiger.javase.tools.mysql;
 
 import java.net.URL;
 import java.sql.Connection;

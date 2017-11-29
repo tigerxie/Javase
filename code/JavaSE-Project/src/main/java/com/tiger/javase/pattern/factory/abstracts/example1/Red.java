@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.factory.abstracts.example1;
+package com.tiger.javase.pattern.factory.abstracts.example1;
 
 public class Red implements Color {
 

@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.consumer;
+package com.tiger.javase.pattern.consumer;
 
 import java.util.concurrent.BlockingDeque;
 

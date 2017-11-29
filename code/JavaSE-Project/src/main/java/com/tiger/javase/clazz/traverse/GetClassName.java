@@ -1,4 +1,4 @@
-package com.ericsson.upg.clazz.traverse;
+package com.tiger.javase.clazz.traverse;
 
 import java.io.File;
 import java.net.URL;
@@ -8,7 +8,7 @@ import java.util.List;
 public class GetClassName {
 
     public static void main(String[] args) throws ClassNotFoundException {
-        List<String> classNames = getClassName("com.ericsson.upg");
+        List<String> classNames = getClassName("com.tiger.javase");
         ClassLoader loader = Thread.currentThread().getContextClassLoader();
 
         for (String name : classNames) {

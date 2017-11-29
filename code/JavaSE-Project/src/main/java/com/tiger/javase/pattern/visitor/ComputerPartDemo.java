@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.visitor;
+package com.tiger.javase.pattern.visitor;
 
 public class ComputerPartDemo {
     public static void main(String[] args) {

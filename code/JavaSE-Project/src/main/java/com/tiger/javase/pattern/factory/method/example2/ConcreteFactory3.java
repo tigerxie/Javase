@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.factory.method.example2;
+package com.tiger.javase.pattern.factory.method.example2;
 
 public class ConcreteFactory3 implements Factory {
 

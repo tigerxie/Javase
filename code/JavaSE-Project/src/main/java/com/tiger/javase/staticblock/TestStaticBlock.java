@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.staticblock;
+package com.tiger.javase.staticblock;
 
 /**
  * Hello world!
@@ -18,13 +18,13 @@ public class TestStaticBlock {
         Class[] classArray = { Test.class };
 
         // don't print log.
-        Class.forName("com.ericsson.upg.Test", false, TestStaticBlock.class.getClassLoader());
+        Class.forName("com.tiger.javase.Test", false, TestStaticBlock.class.getClassLoader());
 
         // print log once.
-        Class.forName("com.ericsson.upg.Test");
+        Class.forName("com.tiger.javase.Test");
 
         // print log once.
-        Class.forName("com.ericsson.upg.Test", true, TestStaticBlock.class.getClassLoader());
+        Class.forName("com.tiger.javase.Test", true, TestStaticBlock.class.getClassLoader());
     }
 }
 

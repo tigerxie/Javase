@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency;
+package com.tiger.javase.concurrency;
 
 import java.util.ArrayList;
 import java.util.concurrent.ExecutionException;

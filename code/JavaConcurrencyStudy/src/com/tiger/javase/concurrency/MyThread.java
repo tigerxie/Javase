@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency;
+package com.tiger.javase.concurrency;
 
 public class MyThread implements Runnable {
 

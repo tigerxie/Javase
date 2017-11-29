@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.factory.abstracts.example1;
+package com.tiger.javase.pattern.factory.abstracts.example1;
 
 import com.tiger.javase.pattern.factory.simple.Circle;
 import com.tiger.javase.pattern.factory.simple.Shape;

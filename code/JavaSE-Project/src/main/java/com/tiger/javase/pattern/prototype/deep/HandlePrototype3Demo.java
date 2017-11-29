@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.prototype.deep;
+package com.tiger.javase.pattern.prototype.deep;
 
 public class HandlePrototype3Demo {
     public static void main(String[] args) throws CloneNotSupportedException {

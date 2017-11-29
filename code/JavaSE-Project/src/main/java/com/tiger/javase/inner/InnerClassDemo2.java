@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.inner;
+package com.tiger.javase.inner;
 
 public class InnerClassDemo2 {
 	public static void main(String[] args) {

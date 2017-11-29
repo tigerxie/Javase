@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency.netty.dproxy;
+package com.tiger.javase.concurrency.netty.dproxy;
 
 public interface Proxy {
 	

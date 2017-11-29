@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.concurrency.hashmap;
+package com.tiger.javase.concurrency.hashmap;
 
 import java.util.concurrent.ConcurrentMap;
 

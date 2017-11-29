@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.loader;
+package com.tiger.javase.loader;
 
 import java.io.File;
 import java.io.IOException;

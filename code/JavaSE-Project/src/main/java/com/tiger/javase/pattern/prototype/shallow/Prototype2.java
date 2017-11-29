@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.prototype.shallow;
+package com.tiger.javase.pattern.prototype.shallow;
 
 public class Prototype2 {
 

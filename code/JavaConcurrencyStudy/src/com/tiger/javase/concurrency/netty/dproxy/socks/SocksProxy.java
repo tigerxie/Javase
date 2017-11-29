@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency.netty.dproxy.socks;
+package com.tiger.javase.concurrency.netty.dproxy.socks;
 
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;

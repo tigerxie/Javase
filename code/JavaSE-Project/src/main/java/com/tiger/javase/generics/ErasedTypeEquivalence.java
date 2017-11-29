@@ -1,4 +1,4 @@
-package com.ericsson.upg.generics;
+package com.tiger.javase.generics;
 
 import java.util.ArrayList;
 

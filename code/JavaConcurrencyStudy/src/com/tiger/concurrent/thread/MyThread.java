@@ -1,7 +1,5 @@
 package com.tiger.concurrent.thread;
 
-import static java.lang.Thread.nextThreadID;
-
 import java.security.AccessControlContext;
 
 public class MyThread extends Thread {

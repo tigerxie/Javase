@@ -1,4 +1,4 @@
-package com.ericsson.upg.canal;
+package com.tiger.javase.canal;
 import java.net.InetSocketAddress;
 import java.util.List;
 

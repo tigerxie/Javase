@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.visitor;
+package com.tiger.javase.pattern.visitor;
 
 public class ComputerPartVisitor implements ComputerVisitor {
 

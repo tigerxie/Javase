@@ -1,4 +1,4 @@
-package com.ericsson.upg.code.thinking;
+package com.tiger.javase.code.thinking;
 
 import java.util.ArrayList;
 import java.util.Iterator;

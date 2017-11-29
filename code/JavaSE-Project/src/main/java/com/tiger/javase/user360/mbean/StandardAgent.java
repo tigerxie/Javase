@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.user360.mbean;
+package com.tiger.javase.user360.mbean;
 
 import javax.management.Attribute;  
 import javax.management.MBeanServer;  
@@ -41,7 +41,7 @@ public class StandardAgent {
         MBeanServer mBeanServer = agent.getMBeanServer();  
         String domain = mBeanServer.getDefaultDomain();  
         String managedResourceClassName = "CarBean";  
-        ObjectName objectName = agent.createObjectName("com.ericsson.upg.user360.mbean" + ":type=" + managedResourceClassName);  
+        ObjectName objectName = agent.createObjectName("com.tiger.javase.user360.mbean" + ":type=" + managedResourceClassName);  
         System.out.println("objectName: " + objectName);  
         agent.createStandardBean(objectName, managedResourceClassName);  
           

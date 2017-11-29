@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.tools.header;
+package com.tiger.javase.tools.header;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

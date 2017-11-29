@@ -1,4 +1,4 @@
-package com.ericsson.upg.clazz.traverse;
+package com.tiger.javase.clazz.traverse;
 
 import java.io.File;
 import java.io.IOException;

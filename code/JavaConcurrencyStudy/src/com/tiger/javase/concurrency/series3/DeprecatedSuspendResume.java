@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency.series3;
+package com.tiger.javase.concurrency.series3;
 
 public class DeprecatedSuspendResume implements Runnable {
 

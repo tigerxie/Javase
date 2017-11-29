@@ -1,4 +1,4 @@
-package com.ericsson.upg.clazz.traverse;
+package com.tiger.javase.clazz.traverse;
 
 import java.io.File;
 import java.net.URL;
@@ -12,7 +12,7 @@ import java.util.jar.JarFile;
 public class ClassPathDepPack {
 
     public static void main(String[] args) throws Exception {
-        String packageName = "com.ericsson.upg.concurrency.hashmap";
+        String packageName = "com.tiger.javase.concurrency.hashmap";
         // List<String> classNames = getClassName(packageName);
         List<String> classNames = getClassName(packageName, false);
         if (classNames != null) {

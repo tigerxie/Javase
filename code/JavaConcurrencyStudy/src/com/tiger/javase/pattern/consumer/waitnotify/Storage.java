@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.consumer.waitnotify;
+package com.tiger.javase.pattern.consumer.waitnotify;
 
 import java.util.LinkedList;
 

@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.threadlocal;
+package com.tiger.javase.threadlocal;
 
 import java.util.Random;
 import java.util.concurrent.ExecutorService;

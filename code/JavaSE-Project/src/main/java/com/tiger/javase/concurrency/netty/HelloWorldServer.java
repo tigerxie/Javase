@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.concurrency.netty;
+package com.tiger.javase.concurrency.netty;
 
 import io.netty.channel.socket.SocketChannel;
 

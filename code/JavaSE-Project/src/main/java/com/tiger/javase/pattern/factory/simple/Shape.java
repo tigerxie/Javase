@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.factory.simple;
+package com.tiger.javase.pattern.factory.simple;
 
 public interface Shape {
 

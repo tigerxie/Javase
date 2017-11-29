@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency.netty;
+package com.tiger.javase.concurrency.netty;
 
 import java.nio.channels.SocketChannel;
 

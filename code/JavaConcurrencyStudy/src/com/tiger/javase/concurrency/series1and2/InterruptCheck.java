@@ -1,4 +1,4 @@
-package com.ericsson.upg.concurrency.series1and2;
+package com.tiger.javase.concurrency.series1and2;
 
 public class InterruptCheck {
 

@@ -1,4 +1,4 @@
-package com.ericsson.upg.pattern.singleton;
+package com.tiger.javase.pattern.singleton;
 
 public class Full {
 

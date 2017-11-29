@@ -5,7 +5,7 @@
  * or in accordance with the terms and conditions stipulated in the agreement/contract 
  * under which the program(s) have been supplied. 
  */
-package com.ericsson.upg.user360.mbean;
+package com.tiger.javase.user360.mbean;
 
 public interface CarBean {
 	public String getColor();
