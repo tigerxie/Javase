@@ -1,4 +1,4 @@
-package com.tiger.io.file.modify;
+package com.tiger.javase.study.lambda;
 
 import javax.swing.JButton;
 
@@ -10,10 +10,10 @@ public class LambdaStudy {
 
 	private static void buttonUseLambda() {
 		JButton jb = new JButton();
-		jb.addActionListener((e)->System.out.println("bb"));
+		jb.addActionListener((e) -> System.out.println("bb"));
 	}
 
 	private static void runThreadUseLambda() {
-		new Thread(()-> System.out.println("aa")).start();
+		new Thread(() -> System.out.println("aa")).start();
 	}
 }
